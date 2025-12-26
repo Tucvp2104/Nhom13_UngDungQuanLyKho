@@ -1,0 +1,13 @@
+C:\Users\admin\OneDrive\Máy tính\Tai lieu\LTMCanBan\Do_An\QuanLyKho\obj\Debug\QuanLyKho.csproj.AssemblyReference.cache
+C:\Users\admin\OneDrive\Máy tính\Tai lieu\LTMCanBan\Do_An\QuanLyKho\obj\Debug\QuanLyKho.Forms.Chi_tiet_hang_hoa.resources
+C:\Users\admin\OneDrive\Máy tính\Tai lieu\LTMCanBan\Do_An\QuanLyKho\obj\Debug\QuanLyKho.Forms.Dang_ky.resources
+C:\Users\admin\OneDrive\Máy tính\Tai lieu\LTMCanBan\Do_An\QuanLyKho\obj\Debug\QuanLyKho.Forms.Dang_nhap.resources
+C:\Users\admin\OneDrive\Máy tính\Tai lieu\LTMCanBan\Do_An\QuanLyKho\obj\Debug\QuanLyKho.Forms.GiaoDienChinh.resources
+C:\Users\admin\OneDrive\Máy tính\Tai lieu\LTMCanBan\Do_An\QuanLyKho\obj\Debug\QuanlyHH.Properties.Resources.resources
+C:\Users\admin\OneDrive\Máy tính\Tai lieu\LTMCanBan\Do_An\QuanLyKho\obj\Debug\QuanLyKho.csproj.GenerateResource.cache
+C:\Users\admin\OneDrive\Máy tính\Tai lieu\LTMCanBan\Do_An\QuanLyKho\obj\Debug\QuanLyKho.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive\Máy tính\Tai lieu\LTMCanBan\Do_An\QuanLyKho\bin\Debug\QuanlyHH.exe.config
+C:\Users\admin\OneDrive\Máy tính\Tai lieu\LTMCanBan\Do_An\QuanLyKho\bin\Debug\QuanlyHH.exe
+C:\Users\admin\OneDrive\Máy tính\Tai lieu\LTMCanBan\Do_An\QuanLyKho\bin\Debug\QuanlyHH.pdb
+C:\Users\admin\OneDrive\Máy tính\Tai lieu\LTMCanBan\Do_An\QuanLyKho\obj\Debug\QuanlyHH.exe
+C:\Users\admin\OneDrive\Máy tính\Tai lieu\LTMCanBan\Do_An\QuanLyKho\obj\Debug\QuanlyHH.pdb
